@@ -9,8 +9,6 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
 
 - A passionate Self-taught Front-end developer
@@ -67,18 +65,13 @@
 </p>
 
 <br>
-<br>
 
------
-
-<br>
 
 </a>
 </div>
 
 <br>
-<br>
-<br>
+
 
 -----
 
@@ -93,7 +86,7 @@
 
 <li>
 <a href="https://www.linkedin.com/in/edgard-garcia" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<b>LINKEDIN</b>
 </a>
 </li>
 
@@ -102,7 +95,7 @@
 
 <li>
 <a href="teosamir2004@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<b>GMAIL</b>
 </a>
 </li>
 	
